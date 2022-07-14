@@ -42,5 +42,5 @@ I'm always trying to do my best for client with better speed and high quality.�
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)]()
 
 ---
-<h3 align="center">📧 <a href = "https://web.skype.com/">pandelob8@gmail.com</a></h3>
+<h3>📧 <a href = "https://web.skype.com/">pandelob8@gmail.com</a></h3>
 
