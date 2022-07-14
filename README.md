@@ -42,4 +42,5 @@ I'm always trying to do my best for client with better speed and high quality.�
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)]()
 
 ---
-📧pandelob8@gmail.com
+<h3 align="center">📧 pandelob8@gmail.com</h3>
+
